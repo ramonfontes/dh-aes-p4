@@ -5,7 +5,7 @@ A P4 implementation towards Diffie-Hellman key exchange with AES encryption.
 
 # Demo
 
-[!<img src="imgs/demo.png" width="700" height="400">](demo.p4)
+See: demo.p4
 
 
 # Features
